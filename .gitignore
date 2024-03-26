@@ -1,3 +1,9 @@
+# Specific
+Solution.txt
+zz_did.dta
+data_prep.py
+desktop.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
