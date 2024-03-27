@@ -40,20 +40,20 @@ The grading policy is discussed in detail during the first meeting.
 1. Linear regression, least squares and statistical significance
 	* Research Question: Explain square meter prices with the property age 
 2. Multivariate regression, goodness of fit and information criteria	
-	* Research Question: Explain square meter prices with property age, acquisition date, distance to the nearest metro station, number of supermarkets in the neighborhood and accessibility amenities factor (which is number of supermarkets divided by the distance to the next metro) 
+	* Research Question: Explain square meter prices with property age, acquisition date, distance to the nearest metro station, number of supermarkets in the neighborhood, and accessibility amenities factor (which is the number of supermarkets divided by the distance to the next metro) 
 3. Principal component analysis (PCA)
 	* Research Question: Use spot rates to model the yield curve and its slope 
 4. Non-linear regression
-	* Research Question: Explain square meter prices with property age, acquisition date, distance to the nearest metro, number of supermarkets in the neighborhood and property age squared 
+	* Research Question: Explain square meter prices with property age, acquisition date, distance to the nearest metro, number of supermarkets in the neighborhood, and property age squared 
 6. Linear probability, Logit-/ and Probit models
 	* Research Question: Predict the likelihood of a prospective client's contentment with the provided service and discern the key elements articulated by clients that predominantly impact airline satisfaction.
 5. Tobit regression
 	* Consider a scenario where we aim to analyze academic aptitude scores (ranging from 200 to 800) by incorporating reading and math test results, alongside the type of program the student is enrolled in (academic, general, or vocational). Students who answer every question correctly on the academic aptitude test are awarded a perfect score of 800, regardless of potential differences in their actual aptitude levels. Similarly, those who answer all questions incorrectly receive the minimum score of 200, despite potential variations in their true aptitude levels.
 	* Research Question: Investigate the relationship between academic aptitude and reading proficiency, math proficiency, and program type, while considering the potential truncation at both upper and lower limits of the aptitude scale
 7. Panel data, H-Test, random and fixed effect models*
-	* Research Question: How does the total cost of airline operations vary with factors such as revenue passenger miles, fuel price, and load factor.
+	* Research Question: How does the total cost of airline operations vary with factors such as revenue passenger miles, fuel price, and load factor?
 8. Regression discontinuity*
-	* Research Question: Investigate the relationship between the outcome variable and the running variable. Specifically, does the outcome variable change significantly as the running variable crosses a certain threshold, while considering other relevant factors such as age, income, education level, health status, and work experience?
+	* Research Question: Investigate the relationship between the outcome variable and the running variable. Specifically, does the outcome variable change significantly as the running variable crosses a certain threshold while considering other relevant factors such as age, income, education level, health status, and work experience?
 9. Difference in difference*
 	* Research Question: explain the effect of the treatment (did) on GPD per Capital (gdppc). Account for group-specific and time-specific effects. Check the parallel trend assumption. 
 10. Instrumental variable regression*
@@ -89,4 +89,7 @@ You will need a software toolbox that is capable of statistical analysis. Use wh
 
 ## Literature
 
-Despite the vast amount of high-quality online and open-source resources available, if you are looking for a textbook, I recommend 'Mostly Harmless Econometrics: An Empiricist's Companion' by Joshua D. Angrist and Jörn-Steffen Pischke. It is available at the University and State Library (ULB) Halle.
+
+
+
+Despite the vast amount of high-quality online and open-source resources available, if you are looking for a textbook, I recommend _"Mastering metrics : the path from cause to effect"_ or the more comprehensive (Master/PhD level) _"Mostly Harmless Econometrics: An Empiricist's Companion"_ both by Joshua D. Angrist and Jörn-Steffen Pischke. Both books are available at the Library.
