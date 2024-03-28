@@ -66,7 +66,7 @@ The grading policy is discussed in detail during the first meeting.
 
 Please find general writing guidelines as well as a template at: https://github.com/cafawo/WritingGuidelines
 
-Each seminar paper (max. 15 pages) and presentation should cover:
+Each seminar paper and presentation should cover:
 
 * **Overview and literature**: a brief description of the method and potential applications. Include a small number of high quality references that use this method and explain the research objectives and findings therein. The goal is to showcase the method, not to give an extensive literature review.
 * **Methodology**: Explain the methodology, when and why to use it and potential limitations.
