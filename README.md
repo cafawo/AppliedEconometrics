@@ -25,6 +25,7 @@ birte.winter@iwh-halle.de
 
 Dates and rooms can be found on Stud.IP: https://studip.uni-halle.de/dispatch.php/course/details?sem_id=5a9defd4ce9b514471199574c12ee710&again=yes
 
+After you have had time to do some research on your topic, you should contact the TA to schedule a meeting where we can discuss your plan and structure.
 
 ## Grading Policy
 
@@ -42,7 +43,7 @@ The grading policy is discussed in detail during the first meeting.
 2. Multivariate regression, goodness of fit and information criteria	
 	* Research Question: Explain square meter prices with property age, acquisition date, distance to the nearest metro station, number of supermarkets in the neighborhood, and accessibility amenities factor (which is the number of supermarkets divided by the distance to the next metro) 
 3. Principal component analysis (PCA)
-	* Research Question: Use spot rates to model the yield curve and its slope 
+	* Research Question: Use a PCA to model the yield curve of spot rates. Is there an economic interpretation for the components?
 4. Non-linear regression
 	* Research Question: Explain square meter prices with property age, acquisition date, distance to the nearest metro, number of supermarkets in the neighborhood, and property age squared 
 6. Linear probability, Logit-/ and Probit models
@@ -68,7 +69,8 @@ Please find general writing guidelines as well as a template at: https://github.
 
 Each seminar paper and presentation should cover:
 
-* **Overview and literature**: a brief description of the method and potential applications. Include a small number of high quality references that use this method and explain the research objectives and findings therein. The goal is to showcase the method, not to give an extensive literature review.
+* **Introduction**: A brief description of your research question and, specifically, your methodology. Why is this method suitable for your research question?
+* **Literature**:  High quality references that link your analysis to the current state of academic research. In contrast to typical research papers, particular focus should be on showcasing the method, not to give an extensive literature review on your research question. This means that you are encouraged to add references that use your method and explain the research objectives and findings therein, even if these papers are not related to your own research question.
 * **Methodology**: Explain the methodology, when and why to use it and potential limitations.
 * **Data structure and visualization**: You have been given a test dataset. Show the data (e.g. a tabular snapshot) and why it lends itself to your methodology.
 * **Summary statistics**: Show a table with summary statistics of your data.
@@ -76,6 +78,7 @@ Each seminar paper and presentation should cover:
 * **Results and interpretation**: Fit the model and show your results. Provide a brief interpretation (Which coefficient(s) are significant? What does that mean?).
 * **Conclusion**: A very brief summary of your findings.
 
+While your seminar paper should cover the aforementioned points, you are free to adjust the structure and content to whatever yields a **well structured and readable seminar paper**.
 
 ## Software
 
