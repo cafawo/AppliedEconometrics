@@ -18,7 +18,7 @@ IWH - Leibniz Institute for Economic Research</br>
 
 birte.winter@iwh-halle.de
 
-## Learning experiance
+## Learning experience
 
 This seminar is designed to immerse students in the practical aspects of econometric analysis, with an emphasis on empowering them with the data and tools necessary to select and apply the appropriate empirical methods to various research questions. Procuring data consumes significant time and resources; hence, in this seminar, datasets are provided for each topic, enabling students to immediately dive into hands-on analysis. This approach allows for practical experience in handling data, choosing the right models, and interpreting results. The methods covered range from simple linear regression to advanced models for causal inference.
 
