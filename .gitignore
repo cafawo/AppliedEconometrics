@@ -1,8 +1,7 @@
 # Specific
 Solution.txt
-zz_did.dta
-data_prep.py
 desktop.ini
+*ignore*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
