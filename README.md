@@ -24,11 +24,17 @@ This seminar is designed to immerse students in the practical aspects of econome
 
 ## Schedule
 
-**The deadline for submitting the seminar paper is the first day of presentations!**
+**The deadline for submitting the seminar paper is the first day of presentations: 2024-06-27!**
 
 Dates and rooms can be found on Stud.IP: https://studip.uni-halle.de/dispatch.php/course/details?sem_id=5a9defd4ce9b514471199574c12ee710&again=yes
 
-After you have had time to do some research on your topic, you should contact the TA to schedule a meeting where we can discuss your plan and structure.
+After you have had time to do some research on your topic, you should contact the TA to schedule a first meeting where we can discuss your plan and structure.
+
+## Topic assignment process
+
+Please send an email to Birte Winter ([birte.winter@iwh-halle.de](birte.winter@iwh-halle.de)) with a ranking of your topic preferences. You will receive a notice with your assigned topic by **2024-04-21**.
+
+If you do not submit your preferences, you will receive a topic assigned at random. Please note that signing the registration form is required to participate in the seminar. You can withdraw from the seminar by contacting the examination office within 14 days of receiving the topic.
 
 ## Grading Policy
 
